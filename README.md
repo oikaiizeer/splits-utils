@@ -15,7 +15,7 @@ PausableImpl - minimal pausable clone-implementation
 TokenUtils - helper functions on tokens (including ETH as 0x0)
 WalletImpl - minimal smart wallet clone-implementation
 ```
-
+next
 ## Why
 
 To ease external integrations and re-use frequent development / testing patterns
